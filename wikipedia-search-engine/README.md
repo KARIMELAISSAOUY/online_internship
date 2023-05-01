@@ -44,7 +44,7 @@ searchInput.addEventListener('input', function(event) {
 
 - Overall, the debounce technique is a useful tool for improving the performance and usability of user interfaces, by preventing unwanted or repeated function calls and ensuring that functions are only executed when they need to be.
 
-## License
+## JS
 
 The JavaScript  Programming language
 [KARIM] (https://github.com/KARIMELAISSAOUY)
