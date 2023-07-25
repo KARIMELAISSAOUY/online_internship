@@ -9,7 +9,7 @@ intern2grow
 
 
 
-![C#](img/c#.png)
+![C#](img/c%23.png)
 
 
 
