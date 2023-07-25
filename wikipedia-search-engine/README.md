@@ -2,6 +2,11 @@
 ## online_internship
 ### Javascript 
 ---
+
+
+![wikipedia](img/wkp.png)
+
+---
 > For my first assignment, I was required to apply the debounce technique to the search entry located at the top of the page
 
 ---
